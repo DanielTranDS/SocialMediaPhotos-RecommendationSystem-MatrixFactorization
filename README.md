@@ -1,4 +1,7 @@
 # SocialMediaPhotos-RecommendationSystem-MatrixFactorization
+
+(Go to https://github.com/DanielTranDS/SocialMediaPhotos-RecommendationSystem-MatrixFactorization/blob/main/RecommendationSystem_Codes.ipynb for implementation)
+
 Social media platforms produce a huge volume of semi-structured data. This provides a valuable and rich source of data to be analysed, which can potentially output insightful information about users and products. Companies can make use of this to further optimize their business.
 
 In this project, I have semi-structured data in the form of social media photos. I will attempt to create a personalized recommendation system to recommend a list of photos to each user.
